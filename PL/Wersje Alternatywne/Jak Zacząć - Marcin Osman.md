@@ -1,38 +1,3 @@
-# Spis treści
-
-- [Jak zacząć żyć na własnych warunkach](#jak-zacząć-żyć-na-własnych-warunkach)
-- [Jak zacząć dbać o zdrowie](#jak-zacząć-dbać-o-zdrowie)
-- [Jak zacząć uprawiać sport](#jak-zacząć-uprawiać-sport)
-- [Jak łączyć pracę z obowiązkami domowymi](#jak-łączyć-pracę-z-obowiązkami-domowymi)
-- [Jak zacząć podróżować po świecie](#jak-zacząć-podróżować-po-świecie)
-- [Jak zacząć morsować](#jak-zacząć-morsować)
-- [Jak zacząć przemawiać publicznie](#jak-zacząć-przemawiać-publicznie)
-- [Jak zacząć pisać książkę](#jak-zacząć-pisać-książkę)
-- [Jak zacząć uczyć się języków obcych](#jak-zacząć-uczyć-się-języków-obcych)
-- [Jak zacząć poszerzać strefę swojego komfortu](#jak-zacząć-poszerzać-strefę-swojego-komfortu)
-- [Jak zacząć spełniać swoje marzenia](#jak-zacząć-spełniać-swoje-marzenia)
-- [Jak zacząć robić coś czego się nam nie chce](#jak-zacząć-robić-coś-czego-się-nam-nie-chce)
-- [Jak zacząć szukać pracy](#jak-zacząć-szukać-pracy)
-- [Jak zacząć budować pozycję influensera](#jak-zacząć-budować-pozycję-influensera)
-- [Jak zacząć poznawać nowych ludzi](#jak-zacząć-poznawać-nowych-ludzi)
-- [Jak zacząć czytać mowę ciała](#jak-zacząć-czytać-mowę-ciała)
-- [Jak zacząć mówić nie](#jak-zacząć-mówić-nie)
-- [Jak zacząć pracować zdalnie](#jak-zacząć-pracować-zdalnie)
-- [Jak zacząć współpracować ze wspólnikiem](#jak-zacząć-współpracować-ze-wspólnikiem)
-- [Jak zacząć zarabiać pasywnie](#jak-zacząć-zarabiać-pasywnie)
-- [Jak zacząć prowadzić biznes oparty na pasji](#jak-zacząć-prowadzić-biznes-oparty-na-pasji)
-- [Jak zacząć zbierać doświadczenie w nowej dziedzinie](#jak-zacząć-zbierać-doświadczenie-w-nowej-dziedzinie)
-- [Jak zacząć szukać nowych klientów](#jak-zacząć-szukać-nowych-klientów)
-- [Jak zacząć delegować](#jak-zacząć-delegować)
-- [Jak zacząć prowadzić bloga](#jak-zacząć-prowadzić-bloga)
-- [Jak zacząć tworzyć własny kanał na Youtubie](#jak-zacząć-tworzyć-własny-kanał-na-youtubie)
-- [Jak zacząć tworzyć wideo](#jak-zacząć-tworzyć-wideo)
-- [Jak zacząć prowadzić konto na instagramie](#jak-zacząć-prowadzić-konto-na-instagramie)
-- [Jak zacząć tworzyć listę Mailingową](#jak-zacząć-tworzyć-listę-mailingową)
-- [Jak zacząć prowadzić szkolenia](#jak-zacząć-prowadzić-szkolenia)
-- [Jak zacząć nadawać podcast](#jak-zacząć-nadawać-podcast)
-- [Jak zacząć tworzyć firmę](#jak-zacząć-tworzyć-firmę)
-
 # Jak zacząć żyć na własnych warunkach
 
 Jak chcesz żyć? Jakie są te twoje warunki? Eksperymentuj, czytaj i odkrywaj
